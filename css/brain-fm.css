@@ -1,0 +1,12 @@
+.container {
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 20px;
+    flex: 1 1 1;
+}
+
+.sections {
+    display: flex;
+    justify-content: center;
+}
+
